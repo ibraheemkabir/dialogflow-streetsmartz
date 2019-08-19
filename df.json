@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "df-street-smarts-ptxmgl",
+  "private_key_id": "2613c8f6ab8f6cf4614c81268f1672e5d0daa101",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCu6MjuPJV1KIwX\npHMqdODZj/lVS1hfgrMd7iutLLOyozCzbPgxEEK6dnWdnWtVlh892EqQy9Ot2Jdx\n9ieO/PH1j2hAk+OcZcN5MDzpJxgFJpcXAvN9/QNKedxw5ocDVrnwus5dpSLmK4bP\n5WIbGSLxTjw8jgY1IJx+P4SY+BI5QpHRXlBi6z32iYLWqnveZs9gtjqADu4mvNKJ\nN+SP8N/Il7+xo5HaJ+2l3DxUqf20kYKZ3ookJTVQS558Eelx8SHfpGPzDmAevbVJ\nmaC2eVolCNg7dqYYNVQc/1gAqTnWz6uRhTG2zgqVRxRBQrLTGthRsxWO09OaOhP7\nVKrjKcmhAgMBAAECggEAVK0mpUtYMcVk+Qcop/u4ZStR0mytBmQgcdN9epODFW7y\no1KUXzBXlazGqPzuWxtX2ZluE+ZRfr62Jro8EXm8a5y3JFhUX0FW3kMvodJGyyuR\nBtdraOmF39baFSBNaZzhXL0bLfPFzvdwhxIuKh9Drt2oxMofEDZO/MGkYGfsbqJS\nKm++0RqqVTl30tfdpHSiM4vJDk1zy05GUoXOaJA37Z8aAgm2wECbTjyaZtNb8sRV\nsTCmdZ5FxdDm0a5MuyLrROVMw/qKW59L9E0pO6RstZX8eEp0fP4G65bODr/Em7/o\ny8hBM89K7xSt+gTGOpeqO+OMaNNYPrhylJYXM+so9wKBgQDb+I4SKecdUn8jqte8\nJW8/H7wTZIO62QOHiP+GVM6NAA0ZJfaFWPYOVACYT+LsbRY6zTwTFVVfLUqchfHV\nG6H9+pMGzpOaN4KfNjDOoTRJGRGtt0l+s/JlAJLqp5Pb61FkjeoiNQIiLQ5OIiqv\nIjXtmfLFigWCWrZp+RtrE+H8EwKBgQDLjsij6fR7l5icUkkGMzrgHMfxw7+AQcDZ\nKTt+yg7iy4TKqPe24DFjQ70MDJLr1uJsUXFdop3dIa/01T2F2zlKeQkKJ1AyH54k\nIXbW+WxkAU4eOr5gVTzGNr3qeBKf6epq/KRaEL7wgEUHoj2XqgVA7W8hgPDkJ5Kp\nUYu1ikgx+wKBgQCI/xP8W/yEVoy4Of6CPw450hngOgmQpPd9weTiVI8PYajGsM4H\n3o/f/JEiSx6ZAJeHp6pyeCbjT+HX+dPTVZJeC2DmLGHg+hFv9uAO0Hcvz10jQ7OS\nJaAhJ2pYmmWL4dKfPYNEKp9ZiZYPM1hCGpxbjjWUsZEczkItXeelmIx14QKBgHT5\nl2lCf6Eqa6OhUZ+Dfxjc0TWolHrCzmy82hixSr6fz66aTMfFq/vsKE4tR5zJfpJa\ndvglA+zYeAINLG6onRKj3UL9doNnUfxXUrCU4unRKjAK9+3p7aPGP3rnB2ToCjLy\n/gtXxjH0tDZ/0D9AkAZQq2UocMXby9cLKmrnjTdTAoGADRuYjHOX05iQK7i+1+z6\neHvw5zSWCupk3qjDryKMQHSZASY/G8tUoatqOMDP/g8VIjuUCj7k+MKQYQ9napCv\n7vbfyAvsez7Y23snH73/jPx/hNG4ztvRD7avGnU/2OyGZbkHl6mmgL8eJctMi6rX\nfcIubo3uyVYaUpPGVTJ+Keg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "street@df-street-smarts-ptxmgl.iam.gserviceaccount.com",
+  "client_id": "111418921072550514258",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/street%40df-street-smarts-ptxmgl.iam.gserviceaccount.com"
+}
